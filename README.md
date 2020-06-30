@@ -1,6 +1,8 @@
-# COC-Brains
-LostInSpace
-Devayani Shivankar
-Karina Hedaoo
-Vanshita Singh
-Gayatri M Vernekar
+##**Project name : LostInSpace**
+### **Team name : COC-Brains**
+##**Team Members**
+Devayani Shivankar- ()
+Karina Hedaoo- (hedaoos2055@gmail.com)
+Vanshita Singh- ()
+Gayatri M Vernekar- ()
+ 
