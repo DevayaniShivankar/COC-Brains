@@ -10,11 +10,13 @@
 * Saif Kazi
 # **Description**
 You are now chosen to unlock the greatest mystery of 22nd century : **Where did Ms. Vishnoi disappear?**
-Ms. Vishnoi, the scientist sought to reveal the alien-like happenings in your time. But she mysteriously disappeared a few days ago. You reach her cabin and find strange things after some searching. You also come across some coordinates and a peculiar machine where you try to insert those but everything starts rumbling and you find yourself travelling to a different world ! Is this the place where Ms. Vishnoi travelled? Can you save her and unravel the ongoings ? Is this all or *is there more to this quest?*
+Ms. Vishnoi, the scientist sought to reveal the alien-like happenings in your time. But she mysteriously disappeared a few days ago. You reach her lab and find strange things after some searching. You also come across some coordinates and a peculiar machine where you try to insert those but everything starts rumbling and you find yourself travelling to a different world ! Is this the place where Ms. Vishnoi travelled? Can you save her and unravel the ongoings ? Is this all or *is there more to this quest?*
 ***Play now and follow the instructions to find out !***
+This is a 3D game with FPP mode throughout. The links for details are given below : 
 
 * GitHub repo link : (https://devayanishivankar.github.io/COC-Brains/)
 * Drive link : ()
+* Website link : ()
 
 # **Technology stack**
 1. Language : C#
