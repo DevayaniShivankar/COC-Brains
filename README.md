@@ -21,7 +21,7 @@ This is a 3D game with FPP mode throughout. The links for details are given belo
 # **Technology stack**
 1. Language : C#
 2. Engine : Unity ( Version 2019.3.12f1)
-3. Editor : Visual Studio ( Veraion 16.6.3)
+3. Editor : Visual Studio ( Version 16.6.3)
 
 # **Project Setup**
 The game can be installed as any other application through windows application setup. The link is given below.
