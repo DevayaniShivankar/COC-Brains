@@ -9,10 +9,10 @@
 * Shubhankar Gupta
 * Saif Kazi
 # **Description**
-You are now chosen to unlock the greatest mystery of 22nd century : **Where did Ms. Vishnoi disappear?**
+You are now chosen to unlock the greatest mystery of 21st century : **Where did Ms. Vishnoi disappear?**
 Ms. Vishnoi, the scientist sought to reveal the alien-like happenings in your time. But she mysteriously disappeared a few days ago. You reach her lab and find strange things after some searching. You also come across some coordinates and a peculiar machine where you try to insert those but everything starts rumbling and you find yourself travelling to a different world ! Is this the place where Ms. Vishnoi travelled? Can you save her and unravel the ongoings ? Is this all or *is there more to this quest?*
 ***Play now and follow the instructions to find out !***
-This is a 3D game with FPP mode throughout. The links for details are given below : 
+This is a **3D desktop game** with **first person mode** throughout. In it's main part, you face and **terminate aliens** using the weapon. The links for details are given below : 
 
 * GitHub repo link : (https://devayanishivankar.github.io/COC-Brains/)
 * Drive link : ()
@@ -24,7 +24,7 @@ This is a 3D game with FPP mode throughout. The links for details are given belo
 3. Editor : Visual Studio ( Version 16.6.3)
 
 # **Project Setup**
-The game can be installed as any other application through windows application setup. The link is given below.
+The game can be installed on your desktop/pc through suppllied application setup. The link is given below.
 #### [Link for download]()
 
 # **Usage**
