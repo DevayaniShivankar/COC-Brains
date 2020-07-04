@@ -31,9 +31,6 @@ The game can be installed on your desktop/pc through suppllied application setup
 After the user has installed the application, he just has to open the game and the main menu will appear stating a 'PLAY' , 'ABOUT' and 'EXIT' key. The user will further be guided by instructions as to how to advance in the game.
 
 
-# **Applications**
-
-
 # **Future Scope**
 The game can be additionally developed by adding some features of reward system. Following the execution of each alien, the player will be rewarded some points which he/she can further use to repair and enhance its spaceship and gun. After the 1st level, the scientist can now guide him towards the bigger goal that is unraveling the final mystery. After every passing level, the difficulty is raised with number of aliens approaching increased as well as their endurance so that more bullets are required to vanquish the enemy.
 
