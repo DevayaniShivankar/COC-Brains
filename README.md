@@ -14,10 +14,10 @@ Ms. Vishnoi, the scientist sought to reveal the alien-like happenings in your ti
 ***Play now and follow the instructions to find out !***
 This is a **3D desktop game** with **first person mode** throughout. In it's main part, you face and **terminate aliens** using the weapon. Here are some code snippets:
 * Behaviour of enemy following the player:
-     public void Update()
-     {
-        float distance = Vector3.Distance(target.position, transform.position);
 
+
+       public void Update() { float distance = Vector3.Distance(target.position, transform.position);
+    
         if (distance > lookRadius)
         {
             _animator.SetBool("IsWalking", false);
@@ -40,8 +40,47 @@ This is a **3D desktop game** with **first person mode** throughout. In it's mai
                 StartCoroutine(healthreduce());
             }
         }
+   
     
-* The scene where player finds the scientist is trigerred at the end after killing all aliens:    
+* The scene where player finds the scientist is trigerred at the end after killing all aliens:
+{
+    
+    using UnityEngine.SceneManagement;
+    using UnityEngine;
+    using System.Collections;
+
+    public class ScientistSceneShift : MonoBehaviour
+    {
+     public Animator transition;
+     public GameObject[] enemies;
+     public GameObject KillAllText;
+
+    private void Start()
+    {
+        enemies = GameObject.FindGameObjectsWithTag("Enemy");
+        KillAllText.SetActive(false);
+    }
+    private void OnTriggerEnter(Collider other)
+    {
+        if(other.CompareTag("Player") && PlayerManager.instance.EnemiesKilled==52)
+        {
+            transition.SetTrigger("start");
+            SceneManager.LoadScene("ScientistTalk");   
+        }
+
+        else
+        {
+            StartCoroutine(Killallfirst());
+        }
+    }
+
+    IEnumerator Killallfirst()
+    {
+        KillAllText.SetActive(true);
+        yield return new WaitForSeconds(3f);
+        KillAllText.SetActive(false);
+    }
+}
  
 
 The links for details are given below : 
