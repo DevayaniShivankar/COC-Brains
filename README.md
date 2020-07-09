@@ -13,18 +13,41 @@ You are now chosen to unlock the greatest mystery of 21st century : **Where did 
 Ms. Vishnoi, the scientist sought to reveal the alien-like happenings in your time. But she mysteriously disappeared a few days ago. You reach her lab and find strange things after some searching. You also come across some coordinates and a peculiar machine where you try to insert those but everything starts rumbling and you find yourself travelling to a different world ! Is this the place where Ms. Vishnoi travelled? Can you save her and unravel the ongoings ? Is this all or *is there more to this quest?*
 ***Play now and follow the instructions to find out !***
 This is a **3D desktop game** with **first person mode** throughout. In it's main part, you face and **terminate aliens** using the weapon. Here are some code snippets:
+* Behaviour of enemy following the player:
+     public void Update()
+     {
+        float distance = Vector3.Distance(target.position, transform.position);
 
-    * [1](https://drive.google.com/file/d/1t7a-1U4GEWhwarWD6UTsJ3RGeSY1XJR4/view?usp=sharing)
-    * [2](https://drive.google.com/file/d/1-xavo8erxxcAbcgYazzmAWCLcwUvoVQB/view?usp=sharing)
-    * [3](https://drive.google.com/file/d/1Tcufx8WVXGo7vpkQlRxLzKZUXlKsPM8e/view?usp=sharing)
-    * [4](https://drive.google.com/file/d/1ZUtebzMYGNSY3-TlayD80A6YcT9rq1l0/view?usp=sharing)
-    * [5](https://drive.google.com/file/d/1LiiyhY-PcuJs8iJRH6Hy3rUViME3DKZv/view?usp=sharing)
+        if (distance > lookRadius)
+        {
+            _animator.SetBool("IsWalking", false);
+            agent.enabled = false;
+        }
 
+        if (distance <= lookRadius)
+        {
+            AlienSound.Play();
+            agent.enabled = true;
+            agent.destination = target.position;
+            _animator.SetBool("IsWalking", true);
+            _animator.SetBool("Attack", false);
+
+            if (agent.remainingDistance <= agent.stoppingDistance)
+            {
+                agent.destination = target.position;
+                _animator.SetBool("Attack", true);
+                      
+                StartCoroutine(healthreduce());
+            }
+        }
+    
+* The scene where player finds the scientist is trigerred at the end after killing all aliens:    
+ 
 
 The links for details are given below : 
 
 * [GitHub repo link](https://devayanishivankar.github.io/COC-Brains/)
-* [Drive link]()
+* [Drive link](https://drive.google.com/drive/folders/1hswk99uKauwniFC51uR5ICuy-NITPK6t?usp=sharing)
 * [Website link]()
 
 # **Technology stack**
