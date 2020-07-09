@@ -43,17 +43,8 @@ This is a **3D desktop game** with **first person mode** throughout. In it's mai
    
     
 * The scene where player finds the scientist is trigerred at the end after killing all aliens:
-{
-    
-    using UnityEngine.SceneManagement;
-    using UnityEngine;
-    using System.Collections;
 
-    public class ScientistSceneShift : MonoBehaviour
-    {
-     public Animator transition;
-     public GameObject[] enemies;
-     public GameObject KillAllText;
+{
 
     private void Start()
     {
@@ -80,7 +71,7 @@ This is a **3D desktop game** with **first person mode** throughout. In it's mai
         yield return new WaitForSeconds(3f);
         KillAllText.SetActive(false);
     }
-}
+
  
 
 The links for details are given below : 
