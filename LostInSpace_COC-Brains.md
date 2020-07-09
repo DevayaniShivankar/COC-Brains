@@ -86,7 +86,7 @@ The links for details are given below :
 3. Editor : Visual Studio ( Version 16.6.3)
 
 # **Project Setup**
-The game can be installed on your desktop/pc through suppllied application setup. The link is given below.
+The game can be installed on your desktop/pc through supplied application setup. The link is given below.
 #### [Link for download](https://drive.google.com/file/d/1_lM6Cg47h6kuRNjmIlBaMc7IDp54uhRF/view?usp=sharing)
 
 # **Usage**
