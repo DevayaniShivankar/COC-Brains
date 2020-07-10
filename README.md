@@ -48,4 +48,5 @@ The game can be additionally developed by adding some features of reward system.
 1. [The ship](https://drive.google.com/file/d/1HuQA-kR_Ox5hz0bSvBZ13301ryDWC-rm/view?usp=drivesdk)
 1. [The lab](https://drive.google.com/folderview?id=1HwtYJs-vcISVnBf1yM8YZ2tKlnczsgxL)
  ![The aliens](https://drive.google.com/file/d/1Db8ieTE4xN3fQ79422rs-uiMVKBv9nRA/view?usp=sharing)
+ ![The scientist](https://user-images.githubusercontent.com/64356829/87148399-f0a95400-c2cb-11ea-84ec-6c2c1b80ae10.jpg)
 
