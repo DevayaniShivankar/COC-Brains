@@ -14,12 +14,16 @@ Ms. Vishnoi, the scientist sought to reveal the alien-like happenings in your ti
 ***Play now and follow the instructions to find out !***
 This is a **3D desktop game** with **first person mode** throughout. In it's main part, you face and **terminate aliens** using the weapon. Here are some code snippets:
 
-   * [1](https://drive.google.com/file/d/1t7a-1U4GEWhwarWD6UTsJ3RGeSY1XJR4/view?usp=sharing)
-   * [2](https://drive.google.com/file/d/1-xavo8erxxcAbcgYazzmAWCLcwUvoVQB/view?usp=sharing)
-   * [3](https://drive.google.com/file/d/1Tcufx8WVXGo7vpkQlRxLzKZUXlKsPM8e/view?usp=sharing)
-   * [4](https://drive.google.com/file/d/1ZUtebzMYGNSY3-TlayD80A6YcT9rq1l0/view?usp=sharing)
-   * [5](https://drive.google.com/file/d/1LiiyhY-PcuJs8iJRH6Hy3rUViME3DKZv/view?usp=sharing)
-
+1.
+![cd1](https://user-images.githubusercontent.com/64354389/109598259-f1cf1000-7b3e-11eb-95d5-5d72fae46f90.png)
+2.
+![cd2](https://user-images.githubusercontent.com/64354389/109598338-1aefa080-7b3f-11eb-9e46-231734b901de.png)
+3.
+![cd3](https://user-images.githubusercontent.com/64354389/109598371-3064ca80-7b3f-11eb-8542-530a2927da70.png)
+4.
+![cd4](https://user-images.githubusercontent.com/64354389/109598413-470b2180-7b3f-11eb-916b-b5d0970af880.png)
+5.
+![cd5](https://user-images.githubusercontent.com/64354389/109598475-5c804b80-7b3f-11eb-918c-e5f9a3976b8c.png)
 
 The links for details are given below : 
 
