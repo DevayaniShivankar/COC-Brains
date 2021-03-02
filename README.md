@@ -24,7 +24,7 @@ This is a **3D desktop game** with **first person mode** throughout. In it's mai
 The links for details are given below : 
 
 * [GitHub repo link](https://devayanishivankar.github.io/COC-Brains/)
-* [Drive link]()
+* [Drive link](https://drive.google.com/drive/folders/1hswk99uKauwniFC51uR5ICuy-NITPK6t?usp=sharing)
 * [Website link]()
 
 # **Technology stack**
@@ -34,7 +34,7 @@ The links for details are given below :
 
 # **Project Setup**
 The game can be installed on your desktop/pc through suppllied application setup. The link is given below.
-#### [Link for download]()
+#### [Link for download](https://drive.google.com/file/d/1YzZn-Wd50uJQuA6YxZwLyMuVehc5YZVV/view?usp=sharing)
 
 # **Usage**
 After the user has installed the application, he just has to open the game and the main menu will appear stating a 'PLAY' , 'ABOUT' and 'EXIT' key. The user will further be guided by instructions as to how to advance in the game.
