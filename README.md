@@ -23,9 +23,9 @@ This is a **3D desktop game** with **first person mode** throughout. In it's mai
 
 The links for details are given below : 
 
-* [GitHub repo link](https://devayanishivankar.github.io/COC-Brains/)
+* [GitHub repo link](https://github.com/DevayaniShivankar/COC-Brains)
 * [Drive link](https://drive.google.com/drive/folders/1hswk99uKauwniFC51uR5ICuy-NITPK6t?usp=sharing)
-* [Website link]()
+* [Website link](https://devayanishivankar.github.io/COC-Brains/)
 
 # **Technology stack**
 1. Language : C#
